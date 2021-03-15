@@ -35,7 +35,7 @@ class HomeScreen extends StatelessWidget {
       body: Stack(
         children: <Widget>[
           Container(
-            // Here the height of the container is 45% of our total height
+            //// Here the height of the container is 45% of our total height
             height: size.height * .45,
             decoration: BoxDecoration(
               color: Color(
